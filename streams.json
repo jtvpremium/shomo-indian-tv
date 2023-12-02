@@ -1,4 +1,28 @@
 [
+            {
+    "title": "Zee Cinema HD",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8"
+  },
+          {
+    "title": "Zee Classic",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8"
+  },
+        {
+    "title": "Zee Classic",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8"
+  },
+      {
+    "title": "Zee News Punjabi",
+    "url": "https://yupplivefragcp1.yuppcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/zee_https/140423/zeepunjabharyanahimachal/playlist.m3u8"
+  },
+    {
+    "title": "Zee Hindustan",
+    "url": "https://yupplivefragcp1.yuppcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/zee_https/140423/zeehindustan/playlist.m3u8"
+  },
+  {
+    "title": "Zee News",
+    "url": "https://vg-zeeftalive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/zeefta_https/v1/018882c31ccc09831f17028ee9c9/018882c4005709831f17028ee9cc/main.m3u8"
+  },
   {
     "title": "Desi Play Live",
     "url": "https://desiplaylive.akamaized.net/playlist.m3u8"
