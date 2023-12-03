@@ -1,4 +1,72 @@
 [
+                                      {
+    "title": "Sony Max 2",
+    "url": "https://cdn-tv.co.in/sonyliv/playlist.php?load=49f1bf1228cf820e80d884253947b651a8c72f8869fbb33c03b76ddebff5f4c5bf9a3550af5398efdfd7383163807bd4f402df589910b729d7e25af8b5a0e82a243566d2bc57476d3ec3adb57a05569daf7d158802b94ad3fa4f8f5d1a27aac9b42a82d4141a89def459882ab364519db0523995a7132b5b1b4ea4c6ad0a14cd636eac8e079adf233a448185b3134c213967edc9a3c38afa8b3eb54cbd1ec243bfed820610ff75bbe6413178e20dde6ae1e71c7d470be2f06a8f0cbfbacf1a9d68d16f25f75b75c03d8a593a73bb1288e5a01d696dc1d3e2cb6b984fcb4079b5611e738ca11d2d2a82581d1a738cffa2dc3f0aaafa8031bf7ec856746ecd421510d10df2cde6dd2f8011190c5836e904fe8f9a341db1b2bdd865e6ac31b2ac96e6f4ab2dfd4f5eaeb4f9524bd4ac5b24ebcecaf2bf866c501349fc8c49bcc06bf4cbdb86bd3466e440a7a66f7f1859e8e16bd678642ca678c19becb58ffeef13&token="
+  },
+                                      {
+    "title": "Sony Max",
+    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009249"
+  },
+                                    {
+    "title": "Sony Max HD",
+    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009247"
+  },
+                                  {
+    "title": "Sony SAB HD",
+    "url": "https://tvs1.aynaott.com/SabSD/index.m3u8?hdnts=st=1701594014~exp=1701637214~acl=/*~data=45.61.146.183-WEB~hmac=2cf55fa95360257e92047c52d75e4257d64cb3a638fc3d6c3ffe3316c67b626e"
+  },
+                                  {
+    "title": "Sony TV",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1396&e=.m3u8"
+  },
+                                    {
+    "title": "Sony TV HD",
+    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009246"
+  },
+                                  {
+    "title": "Sony Kal",
+    "url": "https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8"
+  },
+                                    {
+    "title": "And Pictures",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8"
+  },
+                                  {
+    "title": "And Pictures HD",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8"
+  },
+                                {
+    "title": "And TV HD",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8"
+  },
+                              {
+    "title": "And TV",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8"
+  },
+                                {
+    "title": "Star Gold HD",
+    "url": "https://supermaxtv.fun/hot/live/1260000040/index.mpd"
+  },
+                                  {
+    "title": "Star Bharat HD",
+    "url": "https://supermaxtv.fun/hot/live/1260000031/index.mpd"
+  },
+                                {
+    "title": "Star Plus HD",
+    "url": "https://supermaxtv.fun/hot/live/1260000017/index.mpd"
+  },
+                              {
+    "title": "Colors Cineplex Bollywood",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8"
+  },
+                            {
+    "title": "Colors Cineplex Superhits",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8"
+  },
+                          {
+    "title": "Colors Rishtey",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8"
+  },
                         {
     "title": "Colors Cineplex HD",
     "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8"
