@@ -1,4 +1,12 @@
 [
+                              {
+    "title": "Sony Pal",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8"                                      
+  },
+                            {
+    "title": "Sony Wah",
+    "url": "https://tvs1.aynaott.com/SonyWah/index.m3u8?hdnts=st=1701699489~exp=1701742689~acl=/*~data=45.61.146.183-WEB~hmac=e42b8e39f80a7912804d38591d4c8cde719ea0e4087c4214b074796675b84b7d"                                      
+  },
                           {
     "title": "News 18 India",
     "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8"                                      
@@ -41,7 +49,7 @@
   },
                                         {
     "title": "Punjabi Hits",
-    "url": "https://livevoot.co.in/mitwatv/getm3u8/1550.m3u8"                                      
+    "url": "https://livevoot.co.in/mitwatv/play/livectv2.phando.com/8063/playlist.m3u8"                                      
   },
                                         {
     "title": "Republic TV Live",
@@ -61,31 +69,31 @@
   },
                                       {
     "title": "Sony Max 2",
-    "url": "https://cdn-tv.co.in/sonyliv/playlist.php?load=49f1bf1228cf820e80d884253947b651a8c72f8869fbb33c03b76ddebff5f4c5bf9a3550af5398efdfd7383163807bd4f402df589910b729d7e25af8b5a0e82a243566d2bc57476d3ec3adb57a05569daf7d158802b94ad3fa4f8f5d1a27aac9fdbfc66f5c6ede42d4073a863df50a2bbc84dbecdacc04440b96a1488cdf137b9d6cb05fd0c4c84b6a7cda7b1dba51f90f0422b2cf95800d993d24006a60f923ca2b3e91f0d1670a4a6feb561876ced0c3bf81ed4f992576e4a49111bd6c63392ead686ad822ebcf4e5f23ebb53708c260fbc9090c2b5739bc40f1a355333ce29d44265425327ced4f4386f9cfaeef34311ff5801750b8f8754438de9d230b5edcdbf0e9abd32ca4311ea18ba423d8fc4b11cda76dce1dd3c9ed53bff0e0bad750730edb2d7ebc935bf247d2558f01bd7281c8460f2bfce734bfc9b21d5a766c2d57ef72b7c42bbc945d438522960e2a683765aa9c25c794d36331b0085fb14a&token="
+    "url": "https://tvs1.aynaott.com/SonyMax2/index.m3u8?hdnts=st=1701699907~exp=1701743107~acl=/*~data=45.61.146.183-WEB~hmac=888c9f35c6210fd8a6a83a38d9fbae7ff04285dea4318523c337aaf6a20d680a"
   },
                                       {
     "title": "Sony Max",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009249"
+    "url": "https://tvs1.aynaott.com/SetMax/index.m3u8?hdnts=st=1701699866~exp=1701743066~acl=/*~data=45.61.146.183-WEB~hmac=54bd85b969b9fd70e0bf71847e2b192bae6de55525614bba0150ff90c32d1353"
   },
                                     {
     "title": "Sony Max HD",
-    "url": "https://cdn-tv.co.in/sonyliv/playlist.php?load=49f1bf1228cf820e80d884253947b651a8c72f8869fbb33c03b76ddebff5f4c5d299be112afb98e25c0d67d40a8980b3a8b82913e58c1188147a1dfc7d6925822d54e9fd0c8db969c8deb9ef49192f0708872b7d0783e7e9fab03e51d0c4c20bb70dd3481c6ce74f797d0de5bf47ec01036f8a8e05a6386e390ccf27200cbd02932492e7f1a46d11b5df96a4b44be93ccb1e5d2f1a45875273486722495766ab3077398e41101da571363755f4df5a28eaf7a2d61dd8ec9e933387723e984f5dbaff636ff7cbc75fce9f9677da0dc86acfcb56624239da0994e43c3c5a18b75cfd0de3e0836fcb84b1e0d81b86f75700b2de22b690129beeb3cd2d66259ec76366a1b562b8bde95c154ff3a98a5dc223c62351565952ee371b4f25a3ead1c742b0d57cb99f2df36f0eece873b3944c71560c815b271ea153be7f6ce3ccf4f9a79b4daf3b21210ecdf09a1b5b832624bd960377f0caef921ac68f2b9f6fea9e03&token="
+    "url": "https://tvs1.aynaott.com/MaxHD/index.m3u8?hdnts=st=1701699979~exp=1701743179~acl=/*~data=45.61.146.183-WEB~hmac=b7417fb05bab9081e70b69d0ea5fc83f5866e5f50c0b4489002d15b4642d8b5f"
   },
                                   {
     "title": "Sony SAB HD",
-    "url": "https://tvs1.aynaott.com/SabSD/index.m3u8?hdnts=st=1701594014~exp=1701637214~acl=/*~data=45.61.146.183-WEB~hmac=2cf55fa95360257e92047c52d75e4257d64cb3a638fc3d6c3ffe3316c67b626e"
+    "url": "https://tvs1.aynaott.com/SabHD/index.m3u8?hdnts=st=1701700040~exp=1701743240~acl=/*~data=45.61.146.183-WEB~hmac=5dd86e5a5dcb2242b8127bce39dbbfc985fa8bf5241b90206ebfab959b60a787"
   },
                                   {
     "title": "Sony TV",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=1396&e=.m3u8"
+    "url": "https://tvs1.aynaott.com/SonySD/index.m3u8?hdnts=st=1701700086~exp=1701743286~acl=/*~data=45.61.146.183-WEB~hmac=d650a978c8f5036bb6fac78c52ed74c9711a310c590c286a6b5edfbeec15b05a"
   },
                                     {
     "title": "Sony TV HD",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009246"
+    "url": "https://tvs2.aynaott.com/SonyHD/index.m3u8?hdnts=st=1701700123~exp=1701743323~acl=/*~data=45.61.146.183-WEB~hmac=0ab001debd2662fa99ac330da1bfe3f916b19ad57f318aa236baff3b71ea4ebe"
   },
                                   {
     "title": "Sony Kal",
-    "url": "https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8"
+    "url": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
   },
                                     {
     "title": "And Pictures",
