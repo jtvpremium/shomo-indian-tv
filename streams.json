@@ -1,4 +1,63 @@
-[
+[                                         {
+    "title": "B4U Music",
+    "url": "https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1701711469~exp=1701754669~acl=/*~data=45.61.146.183-WEB~hmac=e64c30035b31a747bc06ac47e8f31080cc2a26760edbda090c797f6fc21860dd"                                      
+  },
+                                          {
+    "title": "Zing",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8"                                      
+  },
+                                          {
+    "title": "9X Jalwa",
+    "url": "https://yuppirecloriginvt.akamaized.net/280723/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1701711324~exp=1701711924~acl=!*/280723/smil:9xjalwa.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/payload/yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/*~hmac=c8c6d8dd0f0efc13b9f34920bedcfccf5bae6ebcbce190f4e103b352aca99e0b&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MUS&ads.channel=338&ads.channel_name=9XJalwa&ads.network_name=yupptv&ads.user=1"                                      
+  },
+                                        {
+    "title": "9X Music",
+    "url": "https://dishtv-test.akamaized.net/111122/9xmusic/playlist.m3u8"                                      
+  },
+                                      {
+    "title": "Music India",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8"                                      
+  },
+                                        {
+    "title": "Mastiiii",
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sab_nim_https/110322/mastii/playlist.m3u8"                                      
+  },
+                                      {
+    "title": "MTV Beats HD",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8"                                      
+  },
+                                        {
+    "title": "Shemaroo TV",
+    "url": "https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/playlist.m3u8?hdnts=st=1701710560~exp=1701721360~acl=*~data=testdata~hmac=caeef4ff98c72e9e73b66c70b9d3f3c94076421e464b23b0b41034ad3bbd5073"                                      
+  },
+                                      {
+    "title": "Shemaroo Bollywood",
+    "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb573b176570658984cb3666cef94482bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616769a86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46fe5375551ac5e3b54378eb85afe6b5bc7d35b967e28def8c0336a7e5b42ca5b0beca15aa4f9b40910890e1b80266cadcbd165b362f8fe2ecff5c66ce916c42ba04ad4b0d1b1e165e7a60db7646598522c4d3072898503fda1df420afb1b5ebf7e2449195be3e1d2969a8a4826313ed6c8b1c94bf001da8165b3683eb505d57881239e7ba208abe84feacad1ba171068f49109224fc19452b66516a9a84fdbdb1e428362026c6f580da448cd30242895b2e91196cf1c988cd3e4de593037da9849979cfdd6a1e0cd02ab2cc4c3fb8f2e0260574453d613f2c12dec20d32efc9553390a191fed88439ed78b0e7e3206c6a75bd71814f689dbd28f5e6a9a315b7ce172dc5d0a7483653e2cab7d8bef5606be2f04813a2ae81864d0309b9618b5f68bab5641f0b4a06ff075e6b906d38c738f642e5c04bcea6c12057b74deea691a233ba461e1c0c1f578190a8fa69ea6f69bdb7cec211572a274d9a0b3ee2b65/138/1280x720_2657019/index.m3u8"                                      
+  },
+                                    {
+    "title": "B4U Movies",
+    "url": "https://tvs2.aynaott.com/B4U_Movies_India/index.m3u8?hdnts=st=1701710832~exp=1701754032~acl=/*~data=45.61.146.183-WEB~hmac=2ceacb76b0a53e847d134b445c7ae5effa4743b48f207c01c153d8cf415bddd0"                                      
+  },
+                                  {
+    "title": "Zee Anmol",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8"                                      
+  },
+                                {
+    "title": "DD National",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8"                                      
+  },
+                                {
+    "title": "BBO Classic",
+    "url": "https://yuppirecloriginvt.akamaized.net/120723/smil:bboclassic.smil/playlist.m3u8?hdnts=st=1701710580~exp=1701714180~acl=!*/120723/smil:bboclassic.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=b252098411059fe63a76c786bac66081648c1b6245a43e0a0b100bc0ba4dbd46&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=4220&ads.channel_name=BBOClassic&ads.network_name=yupptv&ads.user=1"                                      
+  },
+                                  {
+    "title": "BBO HD",
+    "url": "https://yuppirecloriginvt.akamaized.net/28072023/smil:bbo.smil/playlist.m3u8?hdnts=st=1701710462~exp=1701714062~acl=!*/28072023/smil:bbo.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=2e650da7e869d7f46d4318dc0a8f90d14102bf3a530b35d7e698aa6ea76685d0&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=3529&ads.channel_name=BBO&ads.network_name=yupptv&ads.user=1"                                      
+  },
+                                {
+    "title": "Sony Yay",
+    "url": "https://cdn-tv.co.in/sonyliv/playlist.php?load=49f1bf1228cf820e80d884253947b651a8c72f8869fbb33c03b76ddebff5f4c51b51c6885c6f92d205a26312aee9135979d1d0d88ba5d1c67871c40b541763486fc7a4bca63ba8929fed1048a7c943248fcbcba3825850cbbf55f4ffe0fc480909089bf749ce7167a98361217f41a0137a9cd37f6c22fd9e417ae148ae8fbaeb57fa1e0c1da5c14cd251e93100d2b6c092b371da4aae62b862e723b44ddb6767d16eae89637d05a31a09395d6c385928f122759786a257088ca70308dba71feee6daf96bebc83c0bd3edeba71bf825e9cb95df6e9c018293db8cf464677f2e3fae70b6de1dd5b71ad8668d63dc68b79ef2b55632c12edcd710cb78bfb1a37dcaaf787316928e7504d1788632ed231afcab811c7a7147405b16eb0d5e59b1bf70418f02546eadb82a719fd326343826e0ba78c2d41eb1a37da86edc97a33663e323a201af3c537d094e81909818393e71083ee761fc886bc225a10258178edb7da4e54e0c42bff106abc567dc5bbe5b36&token="                                      
+  },
                               {
     "title": "Zee Anmol Cinema",
     "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8"                                      
