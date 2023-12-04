@@ -1,4 +1,138 @@
-[                                         {
+[
+
+                                                                    {
+    "title": "TLC Hindi",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=571&e=.m3u8"
+  },  
+                                                                {
+    "title": "Aaryaa Cinema",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=2189&e=.m3u8"
+  },  
+                                                                        {
+    "title": "WOW Cinema One",
+    "url": "https://idvd.multitvsolution.com/idvo/wowcinema.m3u8"                                      
+  },  
+                                                                                {
+    "title": "B4U Kadak",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1295&e=.m3u8"                                      
+  },  
+                                                                            {
+    "title": "Maha Movie",
+    "url": "https://idvd.multitvsolution.com/idvo/mahamovie.m3u8"                                      
+  },  
+                                                                        {
+    "title": "Animal Planet Hindi",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=566&e=.m3u8"                                      
+  },  
+                                                                    {
+    "title": "Animal Planet HD Hindi",
+    "url": "https://watchmhdtv.com/delta/discovery/api/Animal_Planettv_Hindi.m3u8"                                      
+  },  
+                                                                {
+    "title": "Investigation Discovery Hindi",
+    "url": "https://watchmhdtv.com/delta/discovery/api/Investigation_Discovery_Hindi.m3u8"                                      
+  },  
+                                                            {
+    "title": "Discovery Science Hindi",
+    "url": "https://watchmhdtv.com/delta/discovery/api/Discovery_Science_Hindi.m3u8"                                      
+  },  
+                                                        {
+    "title": "Discovery Hindi",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=575&e=.m3u8"                                      
+  },    
+                                                                    {
+    "title": "Discovery HD Hindi",
+    "url": "https://watchmhdtv.com/delta/discovery/api/Discovery_Hindi.m3u8"                                      
+  },    
+                                                                {
+    "title": "Discovery Kids Hindi",
+    "url": "https://watchmhdtv.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8"                                      
+  },  
+                                                                {
+    "title": "Dilse Hungama",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=2036&e=.m3u8"                                      
+  },  
+                                                            {
+    "title": "Nickolodeon Sonic Hindi",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"                                      
+  },  
+                                                        {
+    "title": "ABZY Movies",
+    "url": "https://livevoot.co.in/mitwatv/getm3u8/1923.m3u8"                                      
+  },   
+                                                    {
+    "title": "ABZY Cool",
+    "url": "https://livevoot.co.in/mitwatv/getm3u8/19233.m3u8"                                      
+  },   
+                                                {
+    "title": "Joo Music",
+    "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"                                      
+  },   
+                                                {
+    "title": "Saregama Hindi",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=2065&e=.m3u8"                                      
+  },   
+                                            {
+    "title": "Nazara TV",
+    "url": "https://epiconvh.s.llnwi.net/nazara/master.m3u8"                                      
+  },
+                                                         {
+    "title": "Dhinchaak",
+    "url": "https://livectv.phando.com/8070/playlist.m3u8"                                      
+  },    
+                                                     {
+    "title": "Movie Plus",
+    "url": "https://livevoot.co.in/mitwatv/getm3u8/1557.m3u8"                                      
+  },
+                                                     {
+    "title": "Sony BBC Earth HD Hindi",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=821&e=.m3u8"                                      
+  },
+                                                 {
+    "title": "Power Kids TV Hindi",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=2774&e=.m3u8"                                      
+  },
+                                                                      {
+    "title": "YRF Music",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"                                      
+  },
+                                                                  {
+    "title": "Dhamaka Movies B4U",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=2776&e=.m3u8"                                      
+  },
+                                                                  {
+    "title": "Chumbak TV",
+    "url": "https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8?hdnts=st=1701718277~exp=1701729077~acl=*~data=testdata~hmac=2e3518535af516dfbd3aee216a16d0cbff3df912f42e598c585a518a368cc97b"                                      
+  },
+                                                              {
+    "title": "Epic",
+    "url": "https://epiconvh.s.llnwi.net/epic/master.m3u8"                                      
+  },
+                                                          {
+    "title": "DD Bharati",
+    "url": "https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934709/assetType/media/assetFileId/15074730/contextType/PLAYBACK/isAltUrl/False/a.m3u8"                                      
+  },
+                                                {
+    "title": "DD India",
+    "url": "https://yupplivegcp1.yuppcdn.net/140223/smil:ddindiahd.smil/playlist.m3u8?hdnts=st=1701718117~exp=1701721717~acl=!*/140223/smil:ddindiahd.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=9bbee3029fa0f2a35248e6de3302ef3c52f67c9286042faf839a3be7c628e153&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=5521&ads.channel_name=DDINDIA&ads.network_name=yupptv&ads.user=1"                                      
+  },
+                                                      {
+    "title": "iLOVE",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1267&e=.m3u8"                                      
+  },
+                                                  {
+    "title": "MTV",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=248&e=.m3u8"                                      
+  },
+                                              {
+    "title": "MTV HD Plus",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8"                                      
+  },
+                      {
+    "title": "Zoom",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8"                                      
+  },
+                            {
     "title": "B4U Music",
     "url": "https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1701711469~exp=1701754669~acl=/*~data=45.61.146.183-WEB~hmac=e64c30035b31a747bc06ac47e8f31080cc2a26760edbda090c797f6fc21860dd"                                      
   },
@@ -8,7 +142,7 @@
   },
                                           {
     "title": "9X Jalwa",
-    "url": "https://yuppirecloriginvt.akamaized.net/280723/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1701711324~exp=1701711924~acl=!*/280723/smil:9xjalwa.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/payload/yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/*~hmac=c8c6d8dd0f0efc13b9f34920bedcfccf5bae6ebcbce190f4e103b352aca99e0b&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MUS&ads.channel=338&ads.channel_name=9XJalwa&ads.network_name=yupptv&ads.user=1"                                      
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8"                                      
   },
                                         {
     "title": "9X Music",
