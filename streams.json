@@ -1,5 +1,13 @@
 [
                               {
+    "title": "Zee Anmol Cinema",
+    "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8"                                      
+  },
+                            {
+    "title": "Zee Punjabi",
+    "url": "https://entezeetv.fun/s5/play.php?watch=main__0-9-215"                                      
+  },
+                              {
     "title": "Sony Pal",
     "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8"                                      
   },
@@ -41,19 +49,19 @@
   },
                                           {
     "title": "Tabbar Hits",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=2778&e=.m3u8"                                      
+    "url": "https://mhdtv.co.in/jio/play.php?id=2778&slug=Tabbar_Hits"                                      
   },
                                           {
     "title": "Saga Music HD",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=2750&e=.m3u8"                                      
+    "url": "https://mhdtv.co.in/jio/play.php?id=2750"                                      
   },
                                         {
     "title": "Punjabi Hits",
-    "url": "https://livevoot.co.in/mitwatv/play/livectv2.phando.com/8063/playlist.m3u8"                                      
+    "url": "https://livectv2.phando.com/8063/playlist.m3u8"                                      
   },
                                         {
     "title": "Republic TV Live",
-    "url": "https://yupplivegcp1.yuppcdn.net/140223/smil:ddindiahd.smil/playlist.m3u8?hdnts=st=1701594743~exp=1701598343~acl=!*/140223/smil:ddindiahd.smil/*!yuppTVCom_5_-1_b8afefbf691841e0_DE_84.166.19.248/payload/yuppTVCom_5_-1_b8afefbf691841e0_DE_84.166.19.248/*~hmac=86abf681c15b3022908d3245968abaf00cc538d66f27c2a29345cd278067ff2b&amp;ads.app_bundle=&amp;ads.app_store_url=&amp;ads.content_livestream=1&amp;ads.language=ENG&amp;ads.content_genre=NEWS&amp;ads.channel=5521&amp;ads.channel_name=DDINDIA&amp;ads.network_name=yupptv&amp;ads.user=0"                                      
+    "url": "https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/89988ecd-ae75-4c71-a1d7-11e97856cb35/0.m3u8?ads.partner=yupptv&sessionId=3913d303-e469-493a-9697-087ee1b689a4"                                      
   },
                                       {
     "title": "Zee Rajasthan",
@@ -85,7 +93,7 @@
   },
                                   {
     "title": "Sony TV",
-    "url": "https://tvs1.aynaott.com/SonySD/index.m3u8?hdnts=st=1701700086~exp=1701743286~acl=/*~data=45.61.146.183-WEB~hmac=d650a978c8f5036bb6fac78c52ed74c9711a310c590c286a6b5edfbeec15b05a"
+    "url": "https://tvs1.aynaott.com/SonySD/index.m3u8?hdnts=st=1701702818~exp=1701746018~acl=/*~data=45.61.146.183-WEB~hmac=3349aa6c62dc0aa4feb81d7011916f9fddf441e7e0f173e6890ebdf24027def1"
   },
                                     {
     "title": "Sony TV HD",
@@ -113,15 +121,15 @@
   },
                                 {
     "title": "Star Gold HD",
-    "url": "https://supermaxtv.fun/hot/live/1260000040/index.mpd"
+    "url": "https://supermaxtv.fun/hot/watch.php?id=1260000040"
   },
                                   {
     "title": "Star Bharat HD",
-    "url": "https://supermaxtv.fun/hot/live/1260000031/index.mpd"
+    "url": "https://supermaxtv.fun/hot/watch.php?id=1260000031"
   },
                                 {
     "title": "Star Plus HD",
-    "url": "https://supermaxtv.fun/hot/live/1260000017/index.mpd"
+    "url": "https://supermaxtv.fun/hot/watch.php?id=1260000017"
   },
                               {
     "title": "Colors Cineplex Bollywood",
@@ -141,7 +149,7 @@
   },
                           {
     "title": "Cartoon Network",
-    "url": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb57341a6573638884cb3678d2f54882bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616769a86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46fe5375551ac0c6c02378fb80afc6b5bc4d20c967e28def8c033392b0f42cb5b55e3a15bf2feb25d40d066b18b2219c16c5bb6c202a68043e6d18d05bc7dbc4aba65fdf29fffac6df3ffef2ea37b8858085c3133989069acc75cbbdfe80553f66a09762e6ac882bedb5366f62d2a5dfcec85bc6aef03cffb46eb0166e173f22885349925ae00a39326cacba0ef71681db99e230b40a1e1b3c4ff3b27cf0b91c9f2e9524ebed3205777fd70eac84a52e4957fd056a265f7cc41a1912b7a1fc583489a93abf19edaef6fa955064369fa47246b76160d9658d8f40559dd0d19daa9302e504243a39f1785ee0de8fe033de4ae69ae6535b6c99f8b9f3c33c36e1e17df65ca4f1564cd38657daf4a93ff693dd8765fd776559a29c7bcdcdf2239dc87a21299cbab455d39df2582901fc0f912ac221e5c10bffb2265b52d17e0c369173975cf44ab8684b1374137e5f9c9f1d74078290d57035cc5b2bc30ac87ce7f494d814b70342f5005805e873b8f4e19496eee1bd0a7063bd756707db6f66f0c1a4a9fdab48788ce8515e72f9d9f8f4c45516e6ab3370a317d93e7dd2b9a167f3e2b0dce5f1e06d760774df09cc5e998fa1fe89576af3e6d0c2388b0204807567c7419d9f74cd24de98712a991a90d9cba07755c1a06f744b25057c2170f3ab5f7/105/1280x720_3000800/index.m3u8"
+    "url": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb573b176570658984cb3666cef94482bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616769a86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46fe5375551ac5b380733d5bf0caf6b5bc7d25b967e28def8c0696f7a5b42cc0c55e3a95aaafde00c11d966898b2b19c16c5bb3dc06ebe92680cbb02afc34f3128e74f9dffa9be92ed3d2d27df817f20b0d572f7c908e0bfda331adfbaa5906b85e0567377bfbf9ef94223d82540d5de8eff4b164f216bce54feb7b168b30a761a51daf76f079cd884fa4bef5dc4d5129a5b6380b46f1bfd3e09c3437ae28ffabedaf1b16ffed244b6eed70eac84a52e4957fd056a265f7cc41a1912b7a1fc583489a93abf19edaef6fa955064369fa47246b76160d9658d8f40559dd0d19daa9302e504243a39f1785ee0de8fe033de4ae69ae6535b6c99f8b9f3c33c36e1e17df65ca4f1564cd38657daf4a93ff693dd8765fd776559a29c7bcdcdf2239dc87a21299cbab455d39df2582901fc0f912ac221e5c10bffb2265b52d17e0c369173975cf44ab8684b1374137e5f9c9f1d74078290d57035cc5b2bc30ac87ce7f494d814b70342f5005805e873b8f4e19496eee1bd0a7063bd756707db6f66f0c1a4a9fdab48788ce8515e72f9d9f8f4c45516e6ab3370a317d93e7dd2b9a167f3e2b0dce5f1e06d760774df09cc5e998fa1fe89576af3e6d0c2388b0204807567c7419d9f74cd24de98712a991a90d95bf95735a0183b1a7c3f6a63be60e595a3483ac/190/640x360_1284800/index.m3u8"
   },
               {
     "title": "Bollywood Hungama",
@@ -169,7 +177,7 @@
   },
         {
     "title": "Zee Classic",
-    "url": "https://mhdtv.co.in/jio/stream.php?chunks=84f83c737e08c22b95a4de46e70a0b48d12227ed4533db32391e010029ebfc393ce73f8e0787d9891dfbddc6af5d681fc7f503e8326fdb5639c9036a9464c2eb72e8bd8215bf320916996c0c415338fac1feba70a93cb7cb2e6154e8b909f14c5bf6f2afe5d0524b932683883b018d35734758284f936ca576d1e3a316a14182f10563b01535d6d950d7393104fef4453f94941bb0ced3fd7666817cbbae4f61&itoken="
+    "url": "https://mhdtv.co.in/jio/play.php?id=1691&slug=Zee_Classic_SD"
   },
       {
     "title": "Zee News Punjabi",
