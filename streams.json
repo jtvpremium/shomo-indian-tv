@@ -1,4 +1,40 @@
 [
+                                                                    {
+    "title": "ABP Sanjha",
+    "url": "https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8"
+  },  
+                                                                  {
+    "title": "Pitaara",
+    "url": "https://d16lapcdv3a1mw.cloudfront.net/pitaratv/pitaratv/index.m3u8"
+  },  
+                                                                    {
+    "title": "Brit Asia TV",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8"
+  },  
+                                                                      {
+    "title": "Nick JR Hindi",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=544&e=.m3u8"
+  },  
+                                                                    {
+    "title": "TLC HD Hindi",
+    "url": "https://mhdtvplay.net/delta/discovery/api/TLC_Hindi.m3u8"
+  },  
+                                                                            {
+    "title": "Nick",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=545&e=.m3u8"
+  },  
+                                                                          {
+    "title": "Jio Kids",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1430&e=.m3u8"
+  },  
+                                                                        {
+    "title": "PTC Punjabi Gold",
+    "url": "https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8"
+  },  
+                                                                      {
+    "title": "PTC Chakde",
+    "url": "https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8"
+  },  
                                                                       {
     "title": "PTC Music",
     "url": "https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8"
@@ -253,7 +289,7 @@
   },
                                           {
     "title": "Tabbar Hits",
-    "url": "https://mhdtv.co.in/jio/play.php?id=2778&slug=Tabbar_Hits"                                      
+    "url": "https://mhdtv.co.in/jio/stream.php?id=2778&e=.m3u8"                                      
   },
                                           {
     "title": "Saga Music HD",
@@ -261,7 +297,7 @@
   },
                                         {
     "title": "Punjabi Hits",
-    "url": "https://livectv2.phando.com/8063/playlist.m3u8"                                      
+    "url": "https://livevoot.co.in/mitwatv/getm3u8/1550.m3u8"                                      
   },
                                         {
     "title": "Republic TV Live",
