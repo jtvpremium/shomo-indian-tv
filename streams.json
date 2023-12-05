@@ -1,5 +1,12 @@
 [
-
+                                                                      {
+    "title": "PTC Music",
+    "url": "https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8"
+  },  
+                                                                    {
+    "title": "Zee TV FHD",
+    "url": "https://iptvlister.com/req-data/download-link/ba94a2ffc8f8a973d403f7c86f6dcdac/"
+  },  
                                                                     {
     "title": "TLC Hindi",
     "url": "https://mhdtv.co.in/jio/stream.php?id=571&e=.m3u8"
@@ -134,7 +141,7 @@
   },
                             {
     "title": "B4U Music",
-    "url": "https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1701711469~exp=1701754669~acl=/*~data=45.61.146.183-WEB~hmac=e64c30035b31a747bc06ac47e8f31080cc2a26760edbda090c797f6fc21860dd"                                      
+    "url": "http://144.217.70.181:9587/hin2/B4UMUSIC/playlist.m3u8?token=test"                                      
   },
                                           {
     "title": "Zing",
@@ -170,7 +177,7 @@
   },
                                     {
     "title": "B4U Movies",
-    "url": "https://tvs2.aynaott.com/B4U_Movies_India/index.m3u8?hdnts=st=1701710832~exp=1701754032~acl=/*~data=45.61.146.183-WEB~hmac=2ceacb76b0a53e847d134b445c7ae5effa4743b48f207c01c153d8cf415bddd0"                                      
+    "url": "http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test"                                      
   },
                                   {
     "title": "Zee Anmol",
@@ -215,6 +222,10 @@
                                     {
     "title": "News 18 – Punjab-Haryana-Himachal Pradesh",
     "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/index.m3u8"                                      
+  },
+                                    {
+    "title": "PTC Simran",
+    "url": "https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8"                                      
   },
                                   {
     "title": "PTC Dhol",
@@ -281,7 +292,7 @@
     "url": "https://tvs1.aynaott.com/MaxHD/index.m3u8?hdnts=st=1701699979~exp=1701743179~acl=/*~data=45.61.146.183-WEB~hmac=b7417fb05bab9081e70b69d0ea5fc83f5866e5f50c0b4489002d15b4642d8b5f"
   },
                                   {
-    "title": "Sony SAB HD",
+    "title": "Sony SAB",
     "url": "https://tvs1.aynaott.com/SabHD/index.m3u8?hdnts=st=1701700040~exp=1701743240~acl=/*~data=45.61.146.183-WEB~hmac=5dd86e5a5dcb2242b8127bce39dbbfc985fa8bf5241b90206ebfab959b60a787"
   },
                                   {
@@ -322,7 +333,7 @@
   },
                                 {
     "title": "Star Plus HD",
-    "url": "https://supermaxtv.fun/hot/watch.php?id=1260000017"
+    "url": "144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test"
   },
                               {
     "title": "Colors Cineplex Bollywood",
@@ -369,8 +380,8 @@
     "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8"
   },
         {
-    "title": "Zee Classic",
-    "url": "https://mhdtv.co.in/jio/play.php?id=1691&slug=Zee_Classic_SD"
+    "title": "Zee Classic HD",
+    "url": "http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test"
   },
       {
     "title": "Zee News Punjabi",
