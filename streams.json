@@ -137,7 +137,7 @@
   },
                                                                       {
     "title": "YRF Music",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"                                      
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8,https://mhdtv.co.in/jio/stream.php?id=2753&e=.m3u8"                                      
   },
                                                                   {
     "title": "Dhamaka Movies B4U",
@@ -413,11 +413,11 @@
   },
           {
     "title": "Zee TV",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=1351&e=.m3u8"
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1351&e=.m3u8,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8"
   },
         {
     "title": "Zee Classic",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8"
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8,https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8"
   },
       {
     "title": "Zee News Punjabi",
