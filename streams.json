@@ -1,4 +1,12 @@
-[
+[ 
+                                                            {
+    "title": "Jio Sports HD",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8"
+  },  
+                                                          {
+    "title": "Zee Delhi NCR Haryana",
+    "url": "https://yupplivefragcp1.yuppcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/zee_https/140423/zeedelhincr/playlist.m3u8"
+  },  
                                                                     {
     "title": "ABP Sanjha",
     "url": "https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8"
@@ -12,16 +20,12 @@
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8"
   },  
                                                                       {
-    "title": "Nick JR Hindi",
+    "title": "Nick Junior",
     "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8,https://mhdtv.co.in/jio/stream.php?id=544&e=.m3u8,https://livevoot.co.in/voot/master.m3u8?id=Nick_Junior_voot_MOB"
   },  
                                                                     {
     "title": "TLC HD Hindi",
     "url": "https://mhdtvplay.net/delta/discovery/api/TLC_Hindi.m3u8"
-  },  
-                                                                            {
-    "title": "Nick",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=545&e=.m3u8"
   },  
                                                                           {
     "title": "Jio Kids",
@@ -40,57 +44,17 @@
     "url": "https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8"
   },  
                                                                     {
-    "title": "Zee TV FHD",
-    "url": "https://iptvlister.com/req-data/download-link/ba94a2ffc8f8a973d403f7c86f6dcdac/"
-  },  
-                                                                    {
     "title": "TLC Hindi",
     "url": "https://mhdtv.co.in/jio/stream.php?id=571&e=.m3u8"
-  },  
-                                                                {
-    "title": "Aaryaa Cinema",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=2189&e=.m3u8"
   },  
                                                                         {
     "title": "WOW Cinema One",
     "url": "https://idvd.multitvsolution.com/idvo/wowcinema.m3u8"                                      
   },  
-                                                                                {
-    "title": "B4U Kadak",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=1295&e=.m3u8"                                      
-  },  
                                                                             {
     "title": "Maha Movie",
     "url": "https://idvd.multitvsolution.com/idvo/mahamovie.m3u8"                                      
-  },  
-                                                                        {
-    "title": "Animal Planet Hindi",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=566&e=.m3u8"                                      
-  },  
-                                                                    {
-    "title": "Animal Planet HD Hindi",
-    "url": "https://watchmhdtv.com/delta/discovery/api/Animal_Planettv_Hindi.m3u8"                                      
-  },  
-                                                                {
-    "title": "Investigation Discovery Hindi",
-    "url": "https://watchmhdtv.com/delta/discovery/api/Investigation_Discovery_Hindi.m3u8"                                      
-  },  
-                                                            {
-    "title": "Discovery Science Hindi",
-    "url": "https://watchmhdtv.com/delta/discovery/api/Discovery_Science_Hindi.m3u8"                                      
-  },  
-                                                        {
-    "title": "Discovery Hindi",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=575&e=.m3u8"                                      
-  },    
-                                                                    {
-    "title": "Discovery HD Hindi",
-    "url": "https://watchmhdtv.com/delta/discovery/api/Discovery_Hindi.m3u8"                                      
-  },    
-                                                                {
-    "title": "Discovery Kids Hindi",
-    "url": "https://watchmhdtv.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8"                                      
-  },  
+  },   
                                                                 {
     "title": "Dilse Hungama",
     "url": "https://mhdtv.co.in/jio/stream.php?id=2036&e=.m3u8"                                      
@@ -99,14 +63,6 @@
     "title": "Nickolodeon Sonic Hindi",
     "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"                                      
   },  
-                                                        {
-    "title": "ABZY Movies",
-    "url": "https://livevoot.co.in/mitwatv/getm3u8/1923.m3u8"                                      
-  },   
-                                                    {
-    "title": "ABZY Cool",
-    "url": "https://livevoot.co.in/mitwatv/getm3u8/19233.m3u8"                                      
-  },   
                                                 {
     "title": "Joo Music",
     "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"                                      
@@ -157,7 +113,7 @@
   },
                                                 {
     "title": "DD India",
-    "url": "https://yupplivegcp1.yuppcdn.net/140223/smil:ddindiahd.smil/playlist.m3u8?hdnts=st=1701718117~exp=1701721717~acl=!*/140223/smil:ddindiahd.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=9bbee3029fa0f2a35248e6de3302ef3c52f67c9286042faf839a3be7c628e153&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=5521&ads.channel_name=DDINDIA&ads.network_name=yupptv&ads.user=1"                                      
+    "url": "https://yupplivegcp1.yuppcdn.net/140223/smil:ddindiahd.smil/playlist.m3u8?hdnts=st=1701890595~exp=1701894195~acl=!*/140223/smil:ddindiahd.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=b0aeec994d35059f650dc186b072ec339c325a876cc53c2f0c2adb954b87f626&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=5521&ads.channel_name=DDINDIA&ads.network_name=yupptv&ads.user=1"                                      
   },
                                                       {
     "title": "iLOVE",
@@ -417,7 +373,7 @@
   },
         {
     "title": "Zee Classic",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8,https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8"
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8,https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8,https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8"
   },
       {
     "title": "Zee News Punjabi",
