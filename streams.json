@@ -265,7 +265,7 @@
   },
                                       {
     "title": "5aab TV",
-    "url": "https://yupplivefragcp3.yuppcdn.net/260423/smil:5aabtv.smil/playlist.m3u8"                                      
+    "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"                                      
   },
                                           {
     "title": "Tabbar Hits",
@@ -308,8 +308,8 @@
     "url": "https://tvs1.aynaott.com/MaxHD/index.m3u8?hdnts=st=1701699979~exp=1701743179~acl=/*~data=45.61.146.183-WEB~hmac=b7417fb05bab9081e70b69d0ea5fc83f5866e5f50c0b4489002d15b4642d8b5f"
   },
                                   {
-    "title": "Sony SAB",
-    "url": "https://tvs1.aynaott.com/SabHD/index.m3u8?hdnts=st=1701700040~exp=1701743240~acl=/*~data=45.61.146.183-WEB~hmac=5dd86e5a5dcb2242b8127bce39dbbfc985fa8bf5241b90206ebfab959b60a787"
+    "title": "Sony SAB HD",
+    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009248"
   },
                                   {
     "title": "Sony TV",
@@ -341,15 +341,15 @@
   },
                                 {
     "title": "Star Gold HD",
-    "url": "https://supermaxtv.fun/hot/watch.php?id=1260000040"
+    "url": "https://supermaxtv.fun/hot/live/1260000040/index.mpd"
   },
                                   {
     "title": "Star Bharat HD",
-    "url": "https://supermaxtv.fun/hot/watch.php?id=1260000031"
+    "url": "https://supermaxtv.fun/hot/live/1260000031/index.mpd"
   },
                                 {
     "title": "Star Plus HD",
-    "url": "144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test"
+    "url": "https://supermaxtv.fun/hot/live/1260000017/index.mpd,144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test"
   },
                               {
     "title": "Colors Cineplex Bollywood",
