@@ -343,9 +343,17 @@
     "title": "Star Gold HD",
     "url": "https://supermaxtv.fun/hot/live/1260000040/index.mpd"
   },
+                                    {
+    "title": "Star Bharat FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+  },
                                   {
     "title": "Star Bharat HD",
     "url": "https://supermaxtv.fun/hot/live/1260000031/index.mpd"
+  },
+                                  {
+    "title": "Star Plus FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A"
   },
                                 {
     "title": "Star Plus HD",
