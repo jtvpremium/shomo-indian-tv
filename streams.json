@@ -1,4 +1,27 @@
-[ 
+[
+                                                                        {
+    "title": "Hamdard TV",
+    "url": "https://yuppirecloriginvt.akamaized.net/270723/smil:hamdard.smil/playlist.m3u8?hdnts=st=1702046894~exp=1702050494~acl=!*/270723/smil:hamdard.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=c9ec99e38fa42b2c66eb1176f360cbc0c9f8523d07b2f7057cd0d719a3295b97&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=PUN&ads.content_genre=ENT&ads.channel=2637&ads.channel_name=HamdardTV&ads.network_name=yupptv&ads.user=1"
+                                                                      {
+    "title": "WOW Kidz Hindi",
+    "url": "https://yuppirecloriginvt.akamaized.net/31072023/smil:wowkidzhin.smil/playlist.m3u8?hdnts=st=1702046702~exp=1702047302~acl=!*/31072023/smil:wowkidzhin.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/payload/yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/*~hmac=2aa12600c6f84fe20545aac7d47d879fa07225ce286de27d0cf6572df6cbfbc3&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=4002&ads.channel_name=WOWKidz-Hindi&ads.network_name=yupptv&ads.user=1"
+  }, 
+                                                                    {
+    "title": "Wah Punjabi",
+    "url": "https://yuppirecloriginvt.akamaized.net/31072023/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1702046448~exp=1702050048~acl=!*/31072023/smil:wahpunjabi.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=e2281d618b34ac34c9b420a0022752edc0b6031db1af6d7a285c97311c7419e8&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=PUN&ads.content_genre=MUS&ads.channel=6373&ads.channel_name=WahPunjabi&ads.network_name=yupptv&ads.user=1"
+  }, 
+                                                                  {
+    "title": "Travel XP HD Hindi",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=562&e=.m3u8"
+  }, 
+                                                                {
+    "title": "Dangal 2",
+    "url": "https://dangalplaycdn.vidgyor.com/pub-iodanga2a26kj2/liveabr/playlist.m3u8"
+  },  
+                                                              {
+    "title": "Dangal",
+    "url": "https://dangalplaycdn.vidgyor.com/pub-iodang10p4al/liveabr/playlist.m3u8"
+  },  
                                                             {
     "title": "Jio Sports HD",
     "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8"
@@ -113,7 +136,7 @@
   },
                                                 {
     "title": "DD India",
-    "url": "https://yupplivegcp1.yuppcdn.net/140223/smil:ddindiahd.smil/playlist.m3u8?hdnts=st=1701890595~exp=1701894195~acl=!*/140223/smil:ddindiahd.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=b0aeec994d35059f650dc186b072ec339c325a876cc53c2f0c2adb954b87f626&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=5521&ads.channel_name=DDINDIA&ads.network_name=yupptv&ads.user=1"                                      
+    "url": "https://yupplivegcp1.yuppcdn.net/140223/smil:ddindiahd.smil/playlist.m3u8?hdnts=st=1702045676~exp=1702049276~acl=!*/140223/smil:ddindiahd.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=ebfd990f0eeab87fd5a1d10ae78e9122793c1550c820d7eeb9c39790e450ea71&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=5521&ads.channel_name=DDINDIA&ads.network_name=yupptv&ads.user=1"                                      
   },
                                                       {
     "title": "iLOVE",
@@ -349,7 +372,7 @@
   },
               {
     "title": "Bollywood Hungama",
-    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8"
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8,https://mhdtv.co.in/jio/stream.php?id=2040&e=.m3u8"
   },
   {
     "title": "Big Boss 24HRS Live",
