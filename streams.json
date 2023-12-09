@@ -1,4 +1,64 @@
 [
+                                                                                            {
+    "title": "Sun Bangla Cinema",
+    "url": "https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8"
+},
+                                                                                          {
+    "title": "Boogle Bangla",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=2817&e=.m3u8"
+},
+                                                                                          {
+    "title": "Aakash Aath",
+    "url": "https://tvs1.aynaott.com/aakaashBangla/index.m3u8?hdnts=st=1702113239~exp=1702156439~acl=/*~data=2003:c9:f0a:2690:6d79:1d4b:9e1b:5242-WEB~hmac=df8907dd7c728dc8cfe13c877b09ac8493466e291fdf2ce69c034398eeaa6129"
+},
+                                                                                      {
+    "title": "Zee 24 Kalak",
+    "url": "https://yupplivefragcp1.yuppcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/zee_https/140423/zee24taas/playlist.m3u8?hdnts=st=1702113149~exp=1702116749~acl=!*/140423/zee24taas/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=d80c5cd71105710f36dff964171aad2004ba408fe75006efc54331ca5b48cce6&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=GUJ&ads.content_genre=NEWS&ads.channel=6350&ads.channel_name=Zee24Kalak&ads.network_name=yupptv&ads.user=1"
+},
+                                                                                        {
+    "title": "India News Gujarat",
+    "url": "https://livetv.newsx.com/itv/itvnetwork62/playlist.m3u8"
+},
+                                                                                        {
+    "title": "TV9 Gujarati",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8,https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-861150/main.m3u8"
+},
+                                                                                      {
+    "title": "ABP Asmita",
+    "url": "https://d15zw4ny9nux40.cloudfront.net/out/v1/b2480519a89247d1855be3af8c2d3217/index.m3u8"
+},
+                                                                                    {
+    "title": "Colors Gujarati Cinema",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1324&e=.m3u8"
+},
+                                                                                    {
+    "title": "Colors Gujarati",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8,https://livevoot.co.in/voot/master.m3u8?id=Colors_Gujarati_voot_MOB"
+},
+                                                                                  {
+    "title": "VTV News Gujarati",
+    "url": "https://yuppftalive.akamaized.net/080823/vtvgujarati/playlist.m3u8"
+},
+                                                                                {
+    "title": "CNBC Bajar",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/index.m3u8"
+},
+                                                                              {
+    "title": "Star Sports 1 HD",
+    "url": "https://tvs3.aynaott.com/sspts1/index.m3u8?hdnts=st=1702112553~exp=1702155753~acl=/*~data=2003:c9:f0a:2690:6d79:1d4b:9e1b:5242-WEB~hmac=c7f4aa44b435d3a29cb9776e1d00180a3e89b35ba78fb0f9aa578f12972fda39"
+},
+                                                                            {
+    "title": "Sports 18 1 HD",
+    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8"
+},
+                                                                      {
+    "title": "Tata WPL Auction 2024",
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099120/hd_akamai_merged_avc_eng_wpl_auction_091223/master.m3u8"
+},
+                                                                          {
+    "title": "India Today",
+    "url": "https://feeds.intoday.in/hltapps/api/master.m3u8"
+},
                                                                         {
     "title": "Hamdard TV",
     "url": "https://yuppirecloriginvt.akamaized.net/270723/smil:hamdard.smil/playlist.m3u8?hdnts=st=1702046894~exp=1702050494~acl=!*/270723/smil:hamdard.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=c9ec99e38fa42b2c66eb1176f360cbc0c9f8523d07b2f7057cd0d719a3295b97&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=PUN&ads.content_genre=ENT&ads.channel=2637&ads.channel_name=HamdardTV&ads.network_name=yupptv&ads.user=1"
@@ -291,6 +351,10 @@
     "title": "Zee Business",
     "url": "https://yupplivefragcp1.yuppcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/zee_https/140423/zeebusiness/playlist.m3u8"
   },
+                                          {
+    "title": "Aaj Tak",
+    "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+  },
                                         {
     "title": "Aaj Tak HD",
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
@@ -401,7 +465,7 @@
   },
       {
     "title": "Zee News Punjabi",
-    "url": "https://yupplivefragcp1.yuppcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/zee_https/140423/zeepunjabharyanahimachal/playlist.m3u8"
+    "url": "https://yupplivefragcp1.yuppcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/zee_https/140423/zeepunjabharyanahimachal/playlist.m3u8,https://d31s6sxcz6vnac.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MDIxMTUyNjh9.YrMKV5cKXVv4anbClDNALpaB8Pvkbgws1qUjeniytY4"
   },
     {
     "title": "Zee Hindustan",
