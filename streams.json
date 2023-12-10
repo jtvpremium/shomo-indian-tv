@@ -1,4 +1,28 @@
 [
+                                                                                                              {
+    "title": "NDTV India",
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ndtvindia_nim_https/240122/ndtvindia/playlist.m3u8"
+},
+                                                                                                            {
+    "title": "India TV",
+    "url": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8"
+},
+                                                                                                          {
+    "title": "Apna Punjab TV",
+    "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+},
+                                                                                                        {
+    "title": "Desi Channel",
+    "url": "https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/index.m3u8"
+},
+                                                                                                      {
+    "title": "Shemaroo Umang",
+    "url": "https://cdn.live.shemaroome.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8?hdnts=st=1702209716~exp=1702220516~acl=*~data=testdata~hmac=977806b1579036c9f9c5904d4e264986e1a5d4c7b846e8b84e77863a6e4bce33"
+},
+                                                                                                    {
+    "title": "Akaal Channel",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-avc1_1500000=6-mp4a_65600_eng=1.m3u8"
+},
                                                                                                   {
     "title": "Jio Cinema Hindi HD",
     "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100326/hd_akamai_merged_avc_hin_isl51/mobile_master.m3u8"
@@ -193,7 +217,7 @@
   },
                                                                   {
     "title": "Chumbak TV",
-    "url": "https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8,https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8?hdnts=st=1701718277~exp=1701729077~acl=*~data=testdata~hmac=2e3518535af516dfbd3aee216a16d0cbff3df912f42e598c585a518a368cc97b"                                      
+    "url": "https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8?hdnts=st=1702215137~exp=1702225937~acl=*~data=testdata~hmac=3b38f5ffcab43e7602fbf7bfb0eb889500ad6bc60ff562683e1cba8453ab3ba8"                                      
   },
                                                               {
     "title": "Epic",
@@ -304,7 +328,7 @@
     "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8"                                      
   },
                                     {
-    "title": "News 18 – Punjab-Haryana-Himachal Pradesh",
+    "title": "News 18 Punjab",
     "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/index.m3u8"                                      
   },
                                     {
