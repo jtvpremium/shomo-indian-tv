@@ -1,9 +1,29 @@
 [
+                                                                                                                        {
+    "title": "Sony Max FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+},
+                                                                                                                      {
+    "title": "Sony Max 2 FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=183&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+},
+                                                                                                                    {
+    "title": "Sanskar TV",
+    "url": "http://195.26.87.217/live.ts?channelId=181&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+},
+                                                                                                                  {
+    "title": "NewsX India",
+    "url": "http://195.26.87.217/live.ts?channelId=36127&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+},
+                                                                                                                {
+    "title": "ABP News India",
+    "url": "http://195.26.87.217/live.ts?channelId=151&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+},
                                                                                                               {
     "title": "NDTV India",
     "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ndtvindia_nim_https/240122/ndtvindia/playlist.m3u8"
 },
-                                                                                                            {
+                                                        a                                                    {
     "title": "India TV",
     "url": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8"
 },
@@ -313,7 +333,7 @@
   },
                             {
     "title": "Zee Punjabi",
-    "url": "https://entezeetv.fun/s5/play.php?watch=main__0-9-215"                                      
+    "url": "http://195.26.87.217/live.ts?channelId=28960&uid=7435&deviceMac=00:1A:79:51:4B:3A"                                      
   },
                               {
     "title": "Sony Pal",
@@ -329,7 +349,7 @@
   },
                                     {
     "title": "News 18 Punjab",
-    "url": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/index.m3u8"                                      
+    "url": "http://195.26.87.217/live.ts?channelId=61900&uid=7435&deviceMac=00:1A:79:51:4B:3A"                                      
   },
                                     {
     "title": "PTC Simran",
@@ -407,6 +427,18 @@
     "title": "Sony SAB HD",
     "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009248"
   },
+                                      {
+    "title": "Sony Bharat FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+  },
+                                    {
+    "title": "Sony TV FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+  },
+                                      {
+    "title": "Sony TV FHD 2",
+    "url": "http://195.26.87.217/live.ts?channelId=12356&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+  },
                                   {
     "title": "Sony TV",
     "url": "https://tvs1.aynaott.com/SonySD/index.m3u8?hdnts=st=1701702818~exp=1701746018~acl=/*~data=45.61.146.183-WEB~hmac=3349aa6c62dc0aa4feb81d7011916f9fddf441e7e0f173e6890ebdf24027def1"
@@ -436,8 +468,12 @@
     "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8"
   },
                                 {
-    "title": "Star Gold HD",
-    "url": "https://supermaxtv.fun/hot/live/1260000040/index.mpd"
+    "title": "Star Gold FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+  },
+                                  {
+    "title": "Star Utsav",
+    "url": "http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A"
   },
                                   {
     "title": "Star Bharat HD",
