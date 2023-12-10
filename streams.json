@@ -1,4 +1,8 @@
 [
+                                                                                            {
+    "title": "DD Punjabi",
+    "url": "https://mhdtv.co.in/jio/stream.php?id=715&e=.m3u8"
+},
                                                                                           {
     "title": "India News Gujarat",
     "url": "https://livetv.newsx.com/itv/itvnetwork62/playlist.m3u8"
@@ -257,11 +261,11 @@
   },
                                 {
     "title": "BBO Classic",
-    "url": "https://yuppirecloriginvt.akamaized.net/120723/smil:bboclassic.smil/playlist.m3u8?hdnts=st=1702118252~exp=1702121852~acl=!*/120723/smil:bboclassic.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=78dcd2e20a8e49f05ee3b75fc97e3b54a41605730eb3882e5648f75f60f32601&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=4220&ads.channel_name=BBOClassic&ads.network_name=yupptv&ads.user=1"                                      
+    "url": "https://yuppirecloriginvt.akamaized.net/120723/smil:bboclassic.smil/playlist.m3u8?hdnts=st=1702210018~exp=1702213618~acl=!*/120723/smil:bboclassic.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=ff175048f963f793b25f043e950e3879aa9890bc893add4389b49c393780f8cf&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=4220&ads.channel_name=BBOClassic&ads.network_name=yupptv&ads.user=1"                                      
   },
                                   {
     "title": "BBO HD",
-    "url": "https://yuppirecloriginvt.akamaized.net/28072023/smil:bbo.smil/playlist.m3u8?hdnts=st=1702118164~exp=1702121764~acl=!*/28072023/smil:bbo.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=f5f94ba7aeaf7c9dbb0b68a8eab357b3e0c0abcd45d94ced74f988a29a9b1854&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=3529&ads.channel_name=BBO&ads.network_name=yupptv&ads.user=1"                                      
+    "url": "https://yuppirecloriginvt.akamaized.net/28072023/smil:bbo.smil/playlist.m3u8?hdnts=st=1702210078~exp=1702213678~acl=!*/28072023/smil:bbo.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=bd1af1ec572078ca32a5cdd26ed6e748e387e8eb5373852caa4e1e8c98f2bbc4&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=3529&ads.channel_name=BBO&ads.network_name=yupptv&ads.user=1"                                      
   },
                                 {
     "title": "Sony Yay Hindi",
@@ -317,7 +321,7 @@
   },
                                       {
     "title": "5aab TV",
-    "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"                                      
+    "url": "https://yupplivefragcp3.yuppcdn.net/260423/smil:5aabtv.smil/playlist.m3u8"                                      
   },
                                           {
     "title": "Tabbar Hits",
@@ -429,7 +433,7 @@
   },
               {
     "title": "Bollywood Hungama",
-    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8,https://mhdtv.co.in/jio/stream.php?id=2040&e=.m3u8"
+    "url": "https://mhdtv.co.in/jio/stream.php?id=2040&e=.m3u8"
   },
   {
     "title": "Big Boss 24HRS Live",
@@ -453,7 +457,7 @@
   },
         {
     "title": "Zee Classic",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8"
+    "url": "https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8,https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8"
   },
       {
     "title": "Zee News Punjabi",
